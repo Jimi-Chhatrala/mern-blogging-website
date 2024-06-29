@@ -2,6 +2,15 @@ POST http://localhost:3000/signin
 Content-Type: application/json
 
 {
-    "email": "kunaa@gmail.com",
-    "password": "Kunaal"
+    "email": "jimi@gmail.com",
+    "password": "Jimi@123"
 }
+
+# POST http://localhost:3000/signup 
+# Content-Type: application/json
+
+# {
+#     "fullname": "jimi kumar",
+#     "email":"jimmdfi@sasfdccsddf.com",
+#     "password":"Jimi@123"
+# }
